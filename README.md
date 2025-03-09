@@ -25,6 +25,10 @@ A young, enthusiastic chef from Mumbai with expertise in regional Indian cuisine
 ### Nonna Maria (Italian Cuisine)
 An elderly Italian grandmother from Tuscany who specializes in handmade pasta and traditional Italian cooking. Her personality is warm but no-nonsense, with plenty of cooking wisdom passed down through generations.
 
+### Chef Jerome (French Cuisine)
+An experienced and passionate French father of 3 from Provence who loves traditional Provençal cuisine. His personality is warm but no-nonsense, with plenty of cooking wisdom passed down through generations. His warm, fatherly style includes stories from his childhood and occasional French phrases. 
+
+
 ## How to Use
 
 Each script allows you to interact with a different chef personality. The conversation follows this pattern:
