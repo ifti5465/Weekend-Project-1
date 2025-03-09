@@ -39,7 +39,7 @@ Each script allows you to interact with a different chef personality. The conver
 ## Experiment Findings
 
 Our team conducted an experiment where:
-- Person 1 used Chef Rosalinda to get dish suggestions based on available ingredients
+- Ifti Ahmed used Chef Raj to get dish suggestions based on available ingredients
 - Person 2 used Chef Raj to request a recipe for the suggested dish
 - Person 3 used Nonna Maria to critique the provided recipe
 
@@ -54,8 +54,8 @@ The detailed findings and comparative analysis are available in our project repo
 
 ## Contributors
 
-- [Team Member 1]
-- [Team Member 2]
+- Sergo Vashakmadze
+- Ifti Ahmed
 - [Team Member 3]
 
 ## License
