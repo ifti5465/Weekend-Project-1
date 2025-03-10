@@ -28,6 +28,9 @@ An elderly Italian grandmother from Tuscany who specializes in handmade pasta an
 ### Chef Jerome (French Cuisine)
 An experienced and passionate French father of 3 from Provence who loves traditional Provençal cuisine. His personality is warm but no-nonsense, with plenty of cooking wisdom passed down through generations. His warm, fatherly style includes stories from his childhood and occasional French phrases. 
 
+### Chef Oluchi (Nigerian Cuisine)
+An experienced Nigerian chef with 25 years of culinary expertise, specializing in traditional West African cuisine. Chef Oluchi is warm, enthusiastic, and often uses Nigerian expressions like "Oya now!" and "Ehn-hen" in conversation. Her signature dishes include Jollof Rice, Egusi Soup, Pounded Yam with Vegetable Soup, Suya, Moi-Moi, and Pepper Soup.
+
 
 ## How to Use
 
@@ -61,6 +64,7 @@ The detailed findings and comparative analysis are available in our project repo
 - Sergo Vashakmadze
 - Ifti Ahmed
 - deca
+- David Chukwuma
 
 ## License
 
