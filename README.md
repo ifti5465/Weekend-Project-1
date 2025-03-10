@@ -60,7 +60,7 @@ The detailed findings and comparative analysis are available in our project repo
 
 - Sergo Vashakmadze
 - Ifti Ahmed
-- [Team Member 3]
+- deca
 
 ## License
 
