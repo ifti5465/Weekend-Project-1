@@ -47,8 +47,8 @@ Each script allows you to interact with a different chef personality. The conver
 
 Our team conducted an experiment where:
 - Ifti Ahmed used Chef Raj to get dish suggestions based on available ingredients
-- Person 2 used Chef Raj to request a recipe for the suggested dish
-- Person 3 used Nonna Maria to critique the provided recipe
+- Person 2 used a Chef of their choice to request a recipe for the suggested dish
+- Person 3 used a Chef of their choice to critique the provided recipe
 
 The detailed findings and comparative analysis are available in our project report.
 
